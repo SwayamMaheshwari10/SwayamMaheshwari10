@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Swayam Maheshwari! 👋</h1>  
 <p align="center">  
 🚀 <strong>AI & ML Enthusiast | Engineering Student</strong> <br>  
-🎓 <strong>Second-year AI & Data Science Student</strong> <br>  
+🎓 <strong>Third-year AI & Data Science Student</strong> <br>  
 🤖 <strong>Passionate about Machine Learning, AI, and Data Science</strong>  
 </p>  
 
